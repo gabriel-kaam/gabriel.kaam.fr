@@ -23,7 +23,7 @@
     </div>
 
     <div id="barz"><a
-      class="sprite sprite-1" target="_blank" href="https://www.linkedin.com/in/gkaam/" title="Consulter le profil Linkedin de Gabriel Kaam"></a><a
+      class="sprite sprite-1" target="_blank" href="https://www.linkedin.com/in/gabriel-kaam/" title="Consulter le profil Linkedin de Gabriel Kaam"></a><a
       ></div>
 
     <script type="text/javascript">
